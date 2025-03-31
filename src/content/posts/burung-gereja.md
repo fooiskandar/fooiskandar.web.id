@@ -2,7 +2,7 @@
 title: Keindahan dan Keunikan Burung Gereja
 published: 2025-03-26
 description: Burung gereja, atau dalam bahasa ilmiahnya Columba livia, adalah salah satu spesies burung yang telah lama mendampingi manusia dalam perjalanan sejarahnya.
-image: ./cover.png
+image: ./cover-hewan.png
 tags: [Burung Gereja, Satwa, Kehidupan, Liar]
 category: Hewan
 draft: false
