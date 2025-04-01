@@ -43,11 +43,11 @@ export const navBarConfig: NavBarConfig = {
     LinkPreset.Archive,
     LinkPreset.About,
     LinkPreset.Contact, // New added bos
-    {
-      name: 'GitHub',
-      url: 'https://github.com/fooiskandar/fooiskandar.web.id',     // Internal links should not include the base path, as it is automatically added
-      external: true,                               // Show an external link icon and will open in a new tab
-    },
+    // {
+    //  name: 'GitHub',
+    //  url: 'https://github.com/fooiskandar/fooiskandar.web.id',     // Internal links should not include the base path, as it is automatically added
+    //  external: true,                               // Show an external link icon and will open in a new tab
+    //},
   ],
 }
 
