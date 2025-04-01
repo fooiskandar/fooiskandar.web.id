@@ -11,12 +11,12 @@
     <!-- name each of your inputs as you wish -->
     <input type="email" name="email">
   </label>
-  
+  <br />
   <label>
     Your message:
     <textarea name="message"></textarea>
   </label>
-  
+  <br />
   <!-- your other form fields go here -->
   <button type="submit">Send</button>
 </form>
