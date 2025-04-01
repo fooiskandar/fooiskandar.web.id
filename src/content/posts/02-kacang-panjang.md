@@ -10,7 +10,7 @@ draft: false
 
 Kacang panjang, juga dikenal sebagai kacang buncis atau kacang polong, adalah salah satu jenis sayuran yang kaya akan nutrisi dan memiliki banyak manfaat bagi kesehatan. Dalam artikel ini, kita akan membahas beragam manfaat kacang panjang serta cara menikmati dan memasukkannya ke dalam pola makan sehari-hari.
 
-Manfaat Kacang Panjang untuk Kesehatan
+## Manfaat Kacang Panjang untuk Kesehatan
 
 1. Kaya Akan Nutrisi: Kacang panjang mengandung serat, vitamin, dan mineral penting seperti vitamin K, vitamin C, vitamin A, folat, dan kalium. Kandungan nutrisi ini membuat kacang panjang menjadi tambahan yang baik untuk diet sehat.
 
