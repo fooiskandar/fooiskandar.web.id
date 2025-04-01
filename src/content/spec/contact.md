@@ -14,6 +14,7 @@
   <br />
   <label>
     Your message:
+    <br />
     <textarea name="message"></textarea>
   </label>
   <br />
