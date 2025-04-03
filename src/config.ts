@@ -64,9 +64,14 @@ export const profileConfig: ProfileConfig = {
       url: 'https://twitter.com/moomoonmyid',
     },
     {
-      name: 'Steam',
+      name: 'Facebook',
       icon: 'fa6-brands:facebook',
       url: 'https://facebook.com/fooiskandar',
+    },
+    {
+      name: 'Bluesky',
+      icon: 'fa6-brands:bluesky',
+      url: 'https://bsky.app/profile/fooiskandar.bsky.social',
     },
     {
       name: 'GitHub',
