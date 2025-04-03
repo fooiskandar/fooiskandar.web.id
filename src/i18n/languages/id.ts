@@ -19,7 +19,7 @@ export const id: Translation = {
   [Key.noTags]: 'Tanpa Tag',
 
   [Key.wordCount]: 'kata',
-  [Key.wordsCount]: 'kata-kata',
+  [Key.wordsCount]: 'kata',
   [Key.minuteCount]: 'menit',
   [Key.minutesCount]: 'menit',
   [Key.postCount]: 'postingan',
