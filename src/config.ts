@@ -58,7 +58,7 @@ export const profileConfig: ProfileConfig = {
   links: [
     {
       name: 'Twitter',
-      icon: 'fa6-brands:twitter',       // Visit https://icones.js.org/ for icon codes
+      icon: 'fa6-brands:x-twitter',       // Visit https://icones.js.org/ for icon codes
                                         // You will need to install the corresponding icon set if it's not already included
                                         // `pnpm add @iconify-json/<icon-set-name>`
       url: 'https://twitter.com/moomoonmyid',
@@ -76,7 +76,7 @@ export const profileConfig: ProfileConfig = {
     {
       name: 'Pinterest',
       icon: 'fa6-brands:square-pinterest',
-      url: 'https://pin.it/FSPyopq2b',
+      url: 'https://pinterest.com/fooiskandar/',
     },
     
     {
