@@ -10,7 +10,7 @@ draft: false
 
 ## Apa itu Kacang Hazelnut 
 
-Kacang hazelnut, atau juga dikenal sebagai kacang filbert, adalah biji dari pohon hazelnut (Corylus avellana). Kacang ini memiliki kulit yang keras dan cangkang yang melindungi isinya. Kacang hazelnut memiliki rasa yang khas, baik digunakan dalam makanan manis maupun gurih. Mereka sering digunakan dalam membuat cokelat, selai, kue, dan makanan penutup lainnya. Selain sebagai bahan makanan, minyak yang diekstrak dari kacang hazelnut juga digunakan dalam industri kosmetik dan farmasi. Kacang hazelnut juga kaya akan nutrisi, seperti vitamin E, asam lemak tak jenuh, serat, dan antioksidan.
+[Kacang hazelnut](https://id.m.wikipedia.org/wiki/Kacang_bunduk), atau juga dikenal sebagai kacang filbert, adalah biji dari pohon hazelnut (Corylus avellana). Kacang ini memiliki kulit yang keras dan cangkang yang melindungi isinya. Kacang hazelnut memiliki rasa yang khas, baik digunakan dalam makanan manis maupun gurih. Mereka sering digunakan dalam membuat cokelat, selai, kue, dan makanan penutup lainnya. Selain sebagai bahan makanan, minyak yang diekstrak dari kacang hazelnut juga digunakan dalam industri kosmetik dan farmasi. Kacang hazelnut juga kaya akan nutrisi, seperti vitamin E, asam lemak tak jenuh, serat, dan antioksidan.
 
 Kacang hazelnut biasanya berbentuk bulat atau sedikit memanjang, dengan ukuran sekitar 1,5 hingga 2 cm. Mereka memiliki warna cokelat kekuningan hingga cokelat tua, tergantung pada jenisnya. Kacang hazelnut tumbuh di pohon hazelnut, yang merupakan anggota keluarga Rosaceae.
 

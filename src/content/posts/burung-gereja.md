@@ -8,7 +8,7 @@ category: Hewan
 draft: false
 ---
 
-Burung gereja, atau dalam bahasa ilmiahnya Columba livia, adalah salah satu spesies burung yang telah lama mendampingi manusia dalam perjalanan sejarahnya. Dikenal juga dengan nama burung merpati, burung ini memiliki keindahan dan keunikan yang membuatnya menarik untuk dijelajahi. Dalam artikel ini, kita akan membahas tentang asal usul, ciri-ciri, serta peran burung gereja dalam kehidupan manusia.
+[Burung gereja](https://id.m.wikipedia.org/wiki/Burung_gereja), atau dalam bahasa ilmiahnya Columba livia, adalah salah satu spesies burung yang telah lama mendampingi manusia dalam perjalanan sejarahnya. Dikenal juga dengan nama burung merpati, burung ini memiliki keindahan dan keunikan yang membuatnya menarik untuk dijelajahi. Dalam artikel ini, kita akan membahas tentang asal usul, ciri-ciri, serta peran burung gereja dalam kehidupan manusia.
 
 ## Asal Usul dan Penyebaran
 

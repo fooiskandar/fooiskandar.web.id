@@ -8,7 +8,7 @@ category: Kuliner
 draft: false
 ---
 
-Kacang mede, atau juga dikenal sebagai kacang mete, merupakan salah satu jenis kacang-kacangan yang memiliki rasa gurih, renyah, dan juga manfaat kesehatan yang luar biasa. Kacang mede berasal dari negara-negara tropis seperti Brasil, India, dan Vietnam, dan telah menjadi favorit di banyak masakan khas di seluruh dunia. Selain menjadi camilan yang lezat, kacang mede juga memiliki nilai gizi yang tinggi, menjadikannya sebagai pilihan makanan sehat yang sangat baik.
+[Kacang mede](https://id.m.wikipedia.org/wiki/Jambu_mete), atau juga dikenal sebagai kacang mete, merupakan salah satu jenis kacang-kacangan yang memiliki rasa gurih, renyah, dan juga manfaat kesehatan yang luar biasa. Kacang mede berasal dari negara-negara tropis seperti Brasil, India, dan Vietnam, dan telah menjadi favorit di banyak masakan khas di seluruh dunia. Selain menjadi camilan yang lezat, kacang mede juga memiliki nilai gizi yang tinggi, menjadikannya sebagai pilihan makanan sehat yang sangat baik.
 
 ## Apa itu Kacang Mede atau Kacang Mete
 

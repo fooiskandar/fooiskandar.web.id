@@ -8,7 +8,7 @@ category: Sayuran
 draft: false
 ---
 
-Kacang panjang, juga dikenal sebagai kacang buncis atau kacang polong, adalah salah satu jenis sayuran yang kaya akan nutrisi dan memiliki banyak manfaat bagi kesehatan. Dalam artikel ini, kita akan membahas beragam manfaat kacang panjang serta cara menikmati dan memasukkannya ke dalam pola makan sehari-hari.
+[Kacang panjang](https://id.m.wikipedia.org/wiki/Kacang_panjang), juga dikenal sebagai kacang buncis atau kacang polong, adalah salah satu jenis sayuran yang kaya akan nutrisi dan memiliki banyak manfaat bagi kesehatan. Dalam artikel ini, kita akan membahas beragam manfaat kacang panjang serta cara menikmati dan memasukkannya ke dalam pola makan sehari-hari.
 
 ## Manfaat Kacang Panjang untuk Kesehatan
 

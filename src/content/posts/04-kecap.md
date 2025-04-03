@@ -8,7 +8,7 @@ category: Kuliner
 draft: false
 ---
 
-Kecap merupakan salah satu bahan bumbu yang tak bisa lepas dari hidangan khas Indonesia.  Dalam setiap sajian kuliner, kecap memberikan sentuhan rasa yang khas, membuat hidangan semakin lezat dan lezat. Tetapi bagaimana sebenarnya kecap dibuat? Apa jenis-jenis kecap yang ada? Dan apa manfaat kesehatan yang terkandung di dalamnya? Mari kita jelajahi lebih dalam tentang kecap.
+[Kecap](https://id.m.wikipedia.org/wiki/Kecap) merupakan salah satu bahan bumbu yang tak bisa lepas dari hidangan khas Indonesia.  Dalam setiap sajian kuliner, kecap memberikan sentuhan rasa yang khas, membuat hidangan semakin lezat dan lezat. Tetapi bagaimana sebenarnya kecap dibuat? Apa jenis-jenis kecap yang ada? Dan apa manfaat kesehatan yang terkandung di dalamnya? Mari kita jelajahi lebih dalam tentang kecap.
 
 ## Sejarah dan Asal-usul Kecap 
 

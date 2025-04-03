@@ -8,7 +8,7 @@ category: Hewan
 draft: false
 ---
 
-Babi Hutan, juga dikenal sebagai babi liar atau babi hutan Asia, merupakan salah satu spesies hewan yang memiliki peran ekologis yang signifikan. Habitat alaminya meliputi hutan-hutan tropis di Asia Tenggara, termasuk Indonesia. Babi hutan dikenal karena perilaku hewan sosial mereka dan peran mereka dalam mempertahankan keseimbangan ekosistem hutan.
+[Babi Hutan](https://id.m.wikipedia.org/wiki/Babi_hutan_(disambiguasi)), juga dikenal sebagai babi liar atau babi hutan Asia, merupakan salah satu spesies hewan yang memiliki peran ekologis yang signifikan. Habitat alaminya meliputi hutan-hutan tropis di Asia Tenggara, termasuk Indonesia. Babi hutan dikenal karena perilaku hewan sosial mereka dan peran mereka dalam mempertahankan keseimbangan ekosistem hutan.
 
 ## Habitat Babi Hutan
 

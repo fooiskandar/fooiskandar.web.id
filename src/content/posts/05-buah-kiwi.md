@@ -8,7 +8,7 @@ category: Buah-buahan
 draft: false
 ---
 
-Buah kiwi merupakan salah satu buah yang kaya akan nutrisi dan memiliki banyak manfaat bagi kesehatan. Berasal dari Tiongkok, buah kiwi kini telah menjadi populer di seluruh dunia karena rasanya yang segar dan manfaat kesehatannya yang luar biasa. Mari kita telusuri lebih dalam tentang buah kiwi, manfaat kesehatannya, serta cara menikmatinya.
+Buah [kiwi](https://id.m.wikipedia.org/wiki/Kiwi_(buah)) merupakan salah satu buah yang kaya akan nutrisi dan memiliki banyak manfaat bagi kesehatan. Berasal dari Tiongkok, buah kiwi kini telah menjadi populer di seluruh dunia karena rasanya yang segar dan manfaat kesehatannya yang luar biasa. Mari kita telusuri lebih dalam tentang buah kiwi, manfaat kesehatannya, serta cara menikmatinya.
 
 ## Manfaat Kesehatan Buah Kiwi
 
