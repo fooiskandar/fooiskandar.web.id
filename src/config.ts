@@ -65,8 +65,8 @@ export const profileConfig: ProfileConfig = {
     },
     {
       name: 'Steam',
-      icon: 'fa6-brands:steam',
-      url: 'https://store.steampowered.com',
+      icon: 'fa6-brands:facebook',
+      url: 'https://facebook.com/fooiskandar',
     },
     {
       name: 'GitHub',
