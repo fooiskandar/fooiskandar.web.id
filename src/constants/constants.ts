@@ -13,7 +13,7 @@ export const BANNER_HEIGHT_EXTEND = 20
 export const BANNER_HEIGHT_HOME = BANNER_HEIGHT + BANNER_HEIGHT_EXTEND
 
 // The height the main panel overlaps the banner, unit: rem
-export const MAIN_PANEL_OVERLAPS_BANNER_HEIGHT = 2.5
+export const MAIN_PANEL_OVERLAPS_BANNER_HEIGHT = 1.5
 
 // Page width: rem
 export const PAGE_WIDTH = 75
