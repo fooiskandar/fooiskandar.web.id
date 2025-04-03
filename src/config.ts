@@ -74,6 +74,12 @@ export const profileConfig: ProfileConfig = {
       url: 'https://bsky.app/profile/fooiskandar.bsky.social',
     },
     {
+      name: 'Pinterest',
+      icon: 'fa6-brands:square-pinterest',
+      url: 'https://pin.it/FSPyopq2b',
+    },
+    
+    {
       name: 'GitHub',
       icon: 'fa6-brands:github',
       url: 'https://github.com/fooiskandar/',
