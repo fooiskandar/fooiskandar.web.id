@@ -10,9 +10,11 @@ draft: false
 
 [Batagor](https://id.m.wikipedia.org/wiki/Batagor) dan [siomay](https://id.m.wikipedia.org/wiki/Siomai) merupakan dua hidangan khas Indonesia yang sangat populer baik di dalam negeri maupun di luar negeri. Kedua hidangan ini memiliki cita rasa yang khas dan merupakan favorit bagi banyak orang.
 
- ![siomay](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Siomay_Bandung.jpg/960px-Siomay_Bandung.jpg)
+ ![Siomay](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Siomay_Bandung.jpg/960px-Siomay_Bandung.jpg "Siomay")
 
 Batagor adalah singkatan dari bakso tahu goreng, sedangkan siomay adalah hidangan dim sum khas Indonesia. Kedua hidangan ini memiliki ciri khas masing-masing dan merupakan pilihan yang sangat populer di warung makan, restoran, dan acara-acara sosial di Indonesia.
+
+![Batagor](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Batagor.jpg/960px-Batagor.jpg "Batagor")
 
 Batagor terdiri dari bakso yang biasanya terbuat dari daging ikan atau daging ayam yang dicampur dengan tepung tapioka dan beberapa bumbu lainnya, kemudian digoreng. Tahu juga menjadi bagian penting dari batagor. Tahu kemudian digoreng dan disajikan bersama bakso. Saus kacang dan saus pedas biasanya disajikan sebagai pelengkap. Hidangan ini sangat cocok untuk dinikmati sebagai cemilan atau makanan utama.
 
