@@ -103,6 +103,10 @@ const jsonLd = {
                 <Content />
             </Markdown>
 
+            <div style="align: center;">
+              <a href="https://my.idcloudhost.com/aff.php?aff=18415"><img src="https://idcloudhost.com/wp-content/uploads/2017/01/468x60.png" height="60" width="468" border="0" alt="IDCloudHost | SSD Cloud Hosting Indonesia" /></a>
+            </div>
+            
             {licenseConfig.enable && <License title={entry.data.title} slug={entry.slug} pubDate={entry.data.published} class="mb-6 rounded-xl license-container onload-animation"></License>}
 
         </div>
@@ -120,9 +124,7 @@ const jsonLd = {
            (adsbygoogle = window.adsbygoogle || []).push({});
       </script>
     </div>
-    <div style="align: center;">
-      <a href="https://my.idcloudhost.com/aff.php?aff=18415"><img src="https://idcloudhost.com/wp-content/uploads/2017/01/468x60.png" height="60" width="468" border="0" alt="IDCloudHost | SSD Cloud Hosting Indonesia" /></a>
-    </div>
+    
     <div class="flex flex-col md:flex-row justify-between mb-4 gap-4 overflow-hidden w-full">
         <a href={entry.data.nextSlug ? getPostUrlBySlug(entry.data.nextSlug) : "#"}
            class:list={["w-full font-bold overflow-hidden active:scale-95", {"pointer-events-none": !entry.data.nextSlug}]}>
