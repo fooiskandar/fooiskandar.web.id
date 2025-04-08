@@ -1,5 +1,5 @@
 ---
-title: Ayam Ranji":" Kelezatan dan Keunikan dalam Setiap Gigitan
+title: Ayam Ranji':' Kelezatan dan Keunikan dalam Setiap Gigitan
 published: 2025-04-08
 description: Ayam Ranji adalah salah satu makanan tradisional yang sangat populer di Indonesia, terutama di kalangan masyarakat Jawa.
 image: ./cover-kuliner.png
