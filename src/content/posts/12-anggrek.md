@@ -15,7 +15,7 @@ badge: Pin
 
 [Anggrek](https://id.m.wikipedia.org/wiki/Orchidaceae) merupakan salah satu tanaman hias yang paling populer di dunia. Tanaman ini memiliki beragam jenis dengan bentuk dan warna bunga yang indah. Anggrek juga memiliki aroma yang khas dan menenangkan.
 
-[Anggrek Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/White_orchid_in_Clara_bog._03.jpg/960px-White_orchid_in_Clara_bog._03.jpg)
+![Anggrek Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/White_orchid_in_Clara_bog._03.jpg/960px-White_orchid_in_Clara_bog._03.jpg)
 
 Di Indonesia, anggrek merupakan salah satu tanaman hias yang paling banyak dibudidayakan. Hal ini karena Indonesia memiliki iklim yang cocok untuk pertumbuhan anggrek.
 
