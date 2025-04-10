@@ -1,16 +1,11 @@
 ---
-title: "Anggrek Si Cantik dari Alam"
-description: "Anggrek merupakan salah satu tanaman hias yang paling populer di dunia. Tanaman ini memiliki beragam jenis dengan bentuk dan warna bunga yang indah. Anggrek juga memiliki aroma yang khas dan menenangkan."
-pubDate: "04 10 2025"
-image: /image/cover-tanaman.png
-categories:
-  - Tanaman
-tags:
-  - Anggrek
-  - Tanaman Hias
-  - Flora
-  - Indonesia
-badge: Pin
+title: Anggrek Si Cantik dari Alam
+published: 2025-04-10
+description: Anggrek merupakan salah satu tanaman hias yang paling populer di dunia. Tanaman ini memiliki beragam jenis dengan bentuk dan warna bunga yang indah. Anggrek juga memiliki aroma yang khas dan menenangkan.
+image: ./cover-tanaman.png
+tags: [Anggrek, Tanaman Hias, Flora, Indonesia]
+category: Tanaman
+draft: false
 ---
 
 [Anggrek](https://id.m.wikipedia.org/wiki/Orchidaceae) merupakan salah satu tanaman hias yang paling populer di dunia. Tanaman ini memiliki beragam jenis dengan bentuk dan warna bunga yang indah. Anggrek juga memiliki aroma yang khas dan menenangkan.
