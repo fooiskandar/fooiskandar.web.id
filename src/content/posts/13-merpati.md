@@ -8,7 +8,9 @@ category: Hewan
 draft: false
 ---
 
-Burung merpati, yang dikenal dengan nama ilmiah *Columba livia*, adalah salah satu spesies burung yang paling terkenal di dunia. Keberadaan merpati sering kali diasosiasikan dengan simbol perdamaian, cinta, dan harapan. Dalam artikel ini, kita akan menjelajahi berbagai aspek menarik tentang burung merpati, termasuk ciri-ciri fisik, habitat, pola makan, dan peran mereka dalam budaya manusia.
+Burung [merpati](https://id.m.wikipedia.org/wiki/Columbidae), yang dikenal dengan nama ilmiah *Columba livia*, adalah salah satu spesies burung yang paling terkenal di dunia. Keberadaan merpati sering kali diasosiasikan dengan simbol perdamaian, cinta, dan harapan. Dalam artikel ini, kita akan menjelajahi berbagai aspek menarik tentang burung merpati, termasuk ciri-ciri fisik, habitat, pola makan, dan peran mereka dalam budaya manusia.
+
+![Burung Merpati](https://upload.wikimedia.org/wikipedia/commons/2/2b/Rock_dove_-_natures_pics.jpg)
 
 ## Ciri-ciri Fisik
 Burung merpati memiliki tubuh yang bulat dan leher yang pendek. Mereka biasanya memiliki bulu dengan warna abu-abu, putih, dan hitam, meskipun variasi warna lainnya juga ada. Merpati memiliki sayap yang panjang dan ramping, memungkinkan mereka untuk terbang dengan cepat dan cekatan.
