@@ -20,6 +20,8 @@ import type { Favicon } from '../types/config'
 import { url, pathsEqual } from '../utils/url-utils'
 import 'katex/dist/katex.css'
 
+import Analytics from '@vercel/analytics/astro'
+
 interface Props {
   title?: string
   banner?: string
@@ -157,6 +159,8 @@ const bannerOffset =
 
 		<link rel="alternate" type="application/rss+xml" title={profileConfig.name} href={`${Astro.site}rss.xml`}/>
 
+    <Analytics/>
+    
     <meta name="google-adsense-account" content="ca-pub-5869772765119979">
     
     <!-- Google tag (gtag.js) -->
