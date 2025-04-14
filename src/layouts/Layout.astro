@@ -55,6 +55,13 @@ if (title) {
   pageTitle = `${siteConfig.title} - ${siteConfig.subtitle}`
 }
 
+let webTitle: string
+if (title) {
+  webTitle = `${title}`
+} else {
+  webTitle = `${siteConfig.title}`
+}
+
 const favicons: Favicon[] =
   siteConfig.favicon.length > 0 ? siteConfig.favicon : defaultFavicons
 
@@ -79,7 +86,7 @@ const bannerOffset =
 >
 	<head>
 
-		<title>{pageTitle}</title>
+		<title>{webTitle}</title>
 
 		<meta charset="UTF-8" />
 		<meta name="description" content={description || pageTitle}>
