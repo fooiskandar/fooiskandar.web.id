@@ -12,7 +12,9 @@ draft: false
 Sungai adalah sumber kehidupan bagi banyak ekosistem dan masyarakat di seluruh dunia. Namun, tidak semua sungai aman untuk dijelajahi. Beberapa sungai terkenal karena arusnya yang kuat, keberadaan hewan buas, dan kondisi yang tidak terduga. Berikut adalah beberapa sungai berbahaya yang patut diwaspadai:
 
 # 1. Sungai Amazon, Amerika Selatan
-   Sungai Amazon, yang sering disebut sebagai "Sungai Hidup," adalah salah satu sungai terpanjang dan terpenting di dunia. Mengalir melalui beberapa negara di Amerika Selatan, termasuk Brasil, Peru, Kolombia, dan Ekuador, sungai ini tidak hanya menawarkan keindahan alam yang menakjubkan, tetapi juga merupakan pusat keanekaragaman hayati yang luar biasa.
+   [Sungai Amazon](https://id.m.wikipedia.org/wiki/Sungai_Amazon), yang sering disebut sebagai "Sungai Hidup," adalah salah satu sungai terpanjang dan terpenting di dunia. Mengalir melalui beberapa negara di Amerika Selatan, termasuk Brasil, Peru, Kolombia, dan Ekuador, sungai ini tidak hanya menawarkan keindahan alam yang menakjubkan, tetapi juga merupakan pusat keanekaragaman hayati yang luar biasa.
+
+![Sungai Amazone](https://upload.wikimedia.org/wikipedia/commons/6/6b/Rio_Amazonas_-_Parintins.jpg)
 
 ## Geografi dan Panjang
 Sungai Amazon memiliki panjang sekitar 6.400 kilometer, menjadikannya sebagai sungai terpanjang kedua di dunia setelah Sungai Nil. Aliran sungai ini terbentuk dari ribuan anak sungai yang mengalir dari Pegunungan Andes dan mengalir ke Laut Atlantik. Wilayah di sekitar sungai ini dikenal sebagai Hutan Hujan Amazon, yang merupakan hutan hujan tropis terbesar di dunia.
@@ -31,7 +33,9 @@ Sungai Amazon adalah harta karun alam yang luar biasa, kaya akan keanekaragaman 
 :::
 
 # 2. Sungai Congo, Afrika
-   Sungai Congo, yang dikenal sebagai salah satu sungai terbesar dan terpenting di Afrika, mengalir melalui beberapa negara di benua tersebut, termasuk Republik Demokratik Kongo, Republik Kongo, dan Angola. Dengan panjang sekitar 4.700 kilometer, Sungai Congo adalah sungai terpanjang kedua di benua Afrika, setelah Sungai Nil. Sungai ini bukan hanya sekadar jalur air, tetapi juga merupakan sumber kehidupan bagi jutaan orang dan ekosistem yang kaya.
+   [Sungai Congo](https://id.m.wikipedia.org/wiki/Sungai_Kongo), yang dikenal sebagai salah satu sungai terbesar dan terpenting di Afrika, mengalir melalui beberapa negara di benua tersebut, termasuk Republik Demokratik Kongo, Republik Kongo, dan Angola. Dengan panjang sekitar 4.700 kilometer, Sungai Congo adalah sungai terpanjang kedua di benua Afrika, setelah Sungai Nil. Sungai ini bukan hanya sekadar jalur air, tetapi juga merupakan sumber kehidupan bagi jutaan orang dan ekosistem yang kaya.
+
+![Sungai Kongo](https://upload.wikimedia.org/wikipedia/commons/3/31/Congo_maluku.jpg)
 
 ## Geografi dan Aliran
 Sungai Congo mengalir dari daerah pegunungan di timur Republik Demokratik Kongo dan mengalir ke barat menuju Samudra Atlantik. Salah satu ciri khas dari sungai ini adalah kedalaman dan arusnya yang kuat, yang menjadikannya salah satu sungai terdalam di dunia, dengan kedalaman mencapai lebih dari 220 meter di beberapa bagian. Aliran sungai ini sangat penting bagi transportasi dan perdagangan di wilayah tersebut.
@@ -50,7 +54,9 @@ Sungai Congo adalah salah satu harta karun alami yang paling penting di Afrika, 
 :::
 
 # 3. Sungai Yangtze, China
-   Sungai Yangtze, atau Yangtze Jiang, adalah sungai terpanjang di Asia dan yang ketiga terpanjang di dunia, dengan panjang sekitar 6.300 kilometer. Mengalir melalui Tiongkok dari Pegunungan Tibet di barat menuju Laut China Timur, sungai ini tidak hanya menjadi salah satu ikon alam negara tersebut tetapi juga memainkan peran penting dalam sejarah, budaya, dan ekonomi Tiongkok.
+   [Sungai Yangtze](https://id.m.wikipedia.org/wiki/Sungai_Panjang), atau Yangtze Jiang, adalah sungai terpanjang di Asia dan yang ketiga terpanjang di dunia, dengan panjang sekitar 6.300 kilometer. Mengalir melalui Tiongkok dari Pegunungan Tibet di barat menuju Laut China Timur, sungai ini tidak hanya menjadi salah satu ikon alam negara tersebut tetapi juga memainkan peran penting dalam sejarah, budaya, dan ekonomi Tiongkok.
+
+![Sungai Yangtze](https://upload.wikimedia.org/wikipedia/commons/5/58/Dusk_on_the_Yangtze_River.jpg)
 
 ## Geografi dan Aliran
 Sungai Yangtze membentang dari barat ke timur Tiongkok, melewati berbagai lanskap, termasuk pegunungan, dataran, dan lembah. Aliran sungai ini mencakup banyak provinsi, seperti Sichuan, Yunnan, Chongqing, Hubei, dan Jiangsu. Salah satu fitur paling terkenal dari sungai ini adalah Tiga Ngarai (Three Gorges), yang merupakan area dengan keindahan alam yang menakjubkan dan juga tantangan navigasi karena arus yang kuat dan tebing curam.
@@ -69,7 +75,9 @@ Sungai Yangtze adalah sebuah keajaiban alam yang tidak hanya menyimpan kekayaan 
 :::
 
 # 4. Sungai Zambezi, Afrika
-   Sungai Zambezi adalah salah satu sungai terpanjang di Afrika, dengan panjang sekitar 2.574 kilometer. Mengalir melalui beberapa negara, termasuk Angola, Namibia, Zambia, Zimbabwe, dan Mozambique, sungai ini bukan hanya terkenal karena keindahan alamnya, tetapi juga karena peran pentingnya dalam ekosistem dan kehidupan masyarakat di sekitarnya.
+   [Sungai Zambezi](https://id.m.wikipedia.org/wiki/Sungai_Zambezi) adalah salah satu sungai terpanjang di Afrika, dengan panjang sekitar 2.574 kilometer. Mengalir melalui beberapa negara, termasuk Angola, Namibia, Zambia, Zimbabwe, dan Mozambique, sungai ini bukan hanya terkenal karena keindahan alamnya, tetapi juga karena peran pentingnya dalam ekosistem dan kehidupan masyarakat di sekitarnya.
+
+![Sungai Zambezi](https://upload.wikimedia.org/wikipedia/commons/3/38/Victoria_Falls_aerial_view_September_2003.jpg)
 
 ## Geografi dan Aliran
 Sungai Zambezi memiliki sumber dari daerah pegunungan di Zambia dan mengalir ke timur menuju Samudra Hindia. Salah satu ciri paling terkenal dari sungai ini adalah Air Terjun Victoria (Victoria Falls), salah satu air terjun terbesar dan paling spektakuler di dunia. Arus yang kuat dan jeram yang menantang menjadikan Zambezi sebagai lokasi yang populer untuk petualangan arung jeram.
@@ -88,7 +96,9 @@ Sungai Zambezi adalah salah satu harta karun alam Afrika yang menawarkan keindah
 :::
 
 # 5. Sungai Colorado, Amerika Serikat
-   Sungai Colorado adalah salah satu sungai paling terkenal di Amerika Serikat, membentang sekitar 2.330 kilometer dari Pegunungan Rocky di Colorado hingga ke Teluk California. Sungai ini dikenal karena keindahan alamnya, termasuk Grand Canyon, serta perannya yang sangat penting dalam sistem ekologi dan ekonomi di wilayah Barat Daya Amerika.
+   [Sungai Colorado](https://id.m.wikipedia.org/wiki/Sungai_Colorado) adalah salah satu sungai paling terkenal di Amerika Serikat, membentang sekitar 2.330 kilometer dari Pegunungan Rocky di Colorado hingga ke Teluk California. Sungai ini dikenal karena keindahan alamnya, termasuk Grand Canyon, serta perannya yang sangat penting dalam sistem ekologi dan ekonomi di wilayah Barat Daya Amerika.
+
+![Sungai Colorado](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Horseshoe_Bend_TC_27-09-2012_15-34-14.jpg/960px-Horseshoe_Bend_TC_27-09-2012_15-34-14.jpg)
 
 ## Geografi dan Aliran
 Sungai Colorado mengalir melalui beberapa negara bagian, termasuk Colorado, Utah, Arizona, Nevada, California, dan Mexico. Sungai ini terkenal dengan tebing-tebing curam dan formasi batuan yang menakjubkan, yang memberikan pemandangan spektakuler bagi para pengunjung. Salah satu fitur paling terkenal dari sungai ini adalah Grand Canyon, yang merupakan salah satu keajaiban alam dunia dan menarik jutaan wisatawan setiap tahunnya.
@@ -107,7 +117,9 @@ Sungai Colorado adalah sebuah keajaiban alam yang tidak hanya menawarkan keindah
 :::
 
 # 6. Sungai Mara, Kenya dan Tanzania
-   Sungai Mara adalah salah satu sungai paling terkenal di Afrika, mengalir melalui Kenya dan Tanzania. Dengan panjang sekitar 395 kilometer, sungai ini dikenal karena perannya yang sangat penting dalam ekosistem savana Afrika, serta sebagai lokasi utama bagi migrasi tahunan hewan liar.
+   [Sungai Mara](#) adalah salah satu sungai paling terkenal di Afrika, mengalir melalui Kenya dan Tanzania. Dengan panjang sekitar 395 kilometer, sungai ini dikenal karena perannya yang sangat penting dalam ekosistem savana Afrika, serta sebagai lokasi utama bagi migrasi tahunan hewan liar.
+
+![Sungai Mara](https://cdn.getyourguide.com/image/format=auto,fit=crop,gravity=auto,quality=60,width=450,height=450,dpr=2/tour_img/47f49ff52a0161221fca411e0f09de8229c437a1bb18b5ab7ec90316f8fa47ef.jpg)
 
 ## Geografi dan Aliran
 Sungai Mara berasal dari daerah pegunungan di Kenya dan mengalir ke arah selatan, sebelum akhirnya bergabung dengan Sungai Talek. Sungai ini mengalir melalui Taman Nasional Maasai Mara di Kenya dan Taman Nasional Serengeti di Tanzania, dua kawasan yang terkenal dengan keanekaragaman hayati yang luar biasa dan merupakan tujuan wisata populer.
