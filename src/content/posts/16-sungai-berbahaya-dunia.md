@@ -11,7 +11,7 @@ draft: false
 
 Sungai adalah sumber kehidupan bagi banyak ekosistem dan masyarakat di seluruh dunia. Namun, tidak semua sungai aman untuk dijelajahi. Beberapa sungai terkenal karena arusnya yang kuat, keberadaan hewan buas, dan kondisi yang tidak terduga. Berikut adalah beberapa sungai berbahaya yang patut diwaspadai:
 
-# 1. **Sungai Amazon, Amerika Selatan**
+# 1. Sungai Amazon, Amerika Selatan
    Sungai Amazon, yang sering disebut sebagai "Sungai Hidup," adalah salah satu sungai terpanjang dan terpenting di dunia. Mengalir melalui beberapa negara di Amerika Selatan, termasuk Brasil, Peru, Kolombia, dan Ekuador, sungai ini tidak hanya menawarkan keindahan alam yang menakjubkan, tetapi juga merupakan pusat keanekaragaman hayati yang luar biasa.
 
 ## Geografi dan Panjang
@@ -26,11 +26,11 @@ Sungai Amazon memiliki peran yang sangat penting dalam menjaga keseimbangan ling
 ## Ancaman yang Dihadapi
 Meskipun memiliki nilai ekologi yang sangat tinggi, Sungai Amazon dan hutan yang mengelilinginya menghadapi berbagai ancaman. Deforestasi yang disebabkan oleh penebangan liar, pertanian, dan penambangan mengancam keberlangsungan ekosistem ini. Selain itu, pencemaran dari limbah industri dan pertanian juga menjadi masalah serius yang dapat merusak kualitas air dan kehidupan di dalamnya.
 
-:::caution
+:::caution[PERINGATAN]
 Sungai Amazon adalah harta karun alam yang luar biasa, kaya akan keanekaragaman hayati dan budaya. Melindungi sungai dan hutan hujan di sekitarnya adalah tanggung jawab kita semua. Kesadaran dan tindakan kolektif diperlukan untuk memastikan bahwa generasi mendatang dapat menikmati keindahan dan manfaat yang diberikan oleh Sungai Amazon. Mari kita jaga "Jantung Hutan Hujan Dunia" ini agar tetap berdenyut untuk masa depan.
 :::
 
-# 2. **Sungai Congo, Afrika**
+# 2. Sungai Congo, Afrika
    Sungai Congo, yang dikenal sebagai salah satu sungai terbesar dan terpenting di Afrika, mengalir melalui beberapa negara di benua tersebut, termasuk Republik Demokratik Kongo, Republik Kongo, dan Angola. Dengan panjang sekitar 4.700 kilometer, Sungai Congo adalah sungai terpanjang kedua di benua Afrika, setelah Sungai Nil. Sungai ini bukan hanya sekadar jalur air, tetapi juga merupakan sumber kehidupan bagi jutaan orang dan ekosistem yang kaya.
 
 ## Geografi dan Aliran
@@ -45,11 +45,11 @@ Sungai Congo memiliki peran penting dalam kehidupan masyarakat di sekitarnya. Se
 ## Ancaman yang Dihadapi
 Meskipun Sungai Congo kaya akan sumber daya dan keanekaragaman hayati, ia juga menghadapi berbagai ancaman. Deforestasi, penambangan, dan pencemaran menjadi masalah serius yang mengancam ekosistem sungai dan hutan hujan. Selain itu, perubahan iklim juga mempengaruhi pola curah hujan dan aliran sungai, yang dapat berdampak pada kehidupan masyarakat di sekitarnya.
 
-:::caution
+:::caution[PERINGATAN]
 Sungai Congo adalah salah satu harta karun alami yang paling penting di Afrika, menyediakan kehidupan dan keberlanjutan bagi jutaan orang dan ekosistem yang kaya. Melindungi Sungai Congo dan lingkungan sekitarnya adalah tanggung jawab bersama kita. Dengan meningkatkan kesadaran dan mengambil tindakan untuk mengurangi dampak negatif terhadap sungai ini, kita dapat memastikan bahwa keajaiban Sungai Congo tetap ada untuk generasi mendatang. Mari bersama-sama menjaga dan melestarikan kekayaan alam yang luar biasa ini.
 :::
 
-# 3. **Sungai Yangtze, China**
+# 3. Sungai Yangtze, China
    Sungai Yangtze, atau Yangtze Jiang, adalah sungai terpanjang di Asia dan yang ketiga terpanjang di dunia, dengan panjang sekitar 6.300 kilometer. Mengalir melalui Tiongkok dari Pegunungan Tibet di barat menuju Laut China Timur, sungai ini tidak hanya menjadi salah satu ikon alam negara tersebut tetapi juga memainkan peran penting dalam sejarah, budaya, dan ekonomi Tiongkok.
 
 ## Geografi dan Aliran
@@ -64,11 +64,11 @@ Sungai Yangtze memiliki peran krusial dalam kehidupan masyarakat Tiongkok. Sebag
 ## Ancaman yang Dihadapi
 Meskipun Sungai Yangtze memiliki banyak manfaat, ia juga menghadapi sejumlah tantangan serius. Pencemaran akibat limbah industri, pertanian, dan rumah tangga merupakan masalah utama yang mengancam kualitas air sungai. Selain itu, pembangunan infrastruktur yang pesat sering kali mengakibatkan kerusakan habitat dan mengancam keanekaragaman hayati. Perubahan iklim juga berpotensi mengubah pola curah hujan dan aliran sungai, yang dapat berdampak pada kehidupan masyarakat di sekitarnya.
 
-:::caution
+:::caution[PERINGATAN]
 Sungai Yangtze adalah sebuah keajaiban alam yang tidak hanya menyimpan kekayaan alam, tetapi juga memiliki nilai ekonomi dan budaya yang sangat tinggi bagi Tiongkok. Melindungi sungai ini dan ekosistemnya adalah tanggung jawab bersama. Dengan meningkatkan kesadaran dan mengambil langkah-langkah untuk mengurangi dampak negatif terhadap sungai, kita dapat memastikan bahwa Sungai Yangtze tetap menjadi sumber kehidupan dan inspirasi bagi generasi mendatang. Mari kita jaga keindahan dan keberlanjutan Sungai Yangtze, arteri kehidupan bagi jutaan orang di Tiongkok.
 :::
 
-# 4. **Sungai Zambezi, Afrika**
+# 4. Sungai Zambezi, Afrika
    Sungai Zambezi adalah salah satu sungai terpanjang di Afrika, dengan panjang sekitar 2.574 kilometer. Mengalir melalui beberapa negara, termasuk Angola, Namibia, Zambia, Zimbabwe, dan Mozambique, sungai ini bukan hanya terkenal karena keindahan alamnya, tetapi juga karena peran pentingnya dalam ekosistem dan kehidupan masyarakat di sekitarnya.
 
 ## Geografi dan Aliran
@@ -83,11 +83,11 @@ Sungai Zambezi memiliki peran penting dalam kehidupan masyarakat di sekitarnya. 
 ## Ancaman yang Dihadapi
 Meskipun Sungai Zambezi kaya akan keanekaragaman hayati dan memiliki nilai ekonomi yang tinggi, ia juga menghadapi berbagai ancaman. Deforestasi, pembangunan bendungan, dan pencemaran menjadi masalah serius yang dapat merusak ekosistem sungai. Perubahan iklim juga mempengaruhi pola curah hujan dan aliran sungai, yang dapat berdampak pada kehidupan masyarakat dan hewan di sekitarnya.
 
-:::caution
+:::caution[PERINGATAN]
 Sungai Zambezi adalah salah satu harta karun alam Afrika yang menawarkan keindahan, kekayaan, dan tantangan. Melindungi sungai ini dan lingkungan sekitarnya adalah tanggung jawab bersama kita. Dengan upaya pelestarian dan kesadaran akan pentingnya ekosistem, kita dapat memastikan bahwa Sungai Zambezi tetap menjadi sumber kehidupan dan inspirasi bagi generasi mendatang. Mari kita jaga keajaiban alam ini agar tetap terpelihara dan lestari.
 :::
 
-# 5. **Sungai Colorado, Amerika Serikat**
+# 5. Sungai Colorado, Amerika Serikat
    Sungai Colorado adalah salah satu sungai paling terkenal di Amerika Serikat, membentang sekitar 2.330 kilometer dari Pegunungan Rocky di Colorado hingga ke Teluk California. Sungai ini dikenal karena keindahan alamnya, termasuk Grand Canyon, serta perannya yang sangat penting dalam sistem ekologi dan ekonomi di wilayah Barat Daya Amerika.
 
 ## Geografi dan Aliran
@@ -102,11 +102,11 @@ Sungai Colorado memiliki peran yang sangat penting dalam kehidupan masyarakat di
 ## Ancaman yang Dihadapi
 Meskipun Sungai Colorado memiliki banyak manfaat, ia juga menghadapi sejumlah tantangan serius. Pencemaran akibat limbah industri dan pertanian, serta penggunaan air yang berlebihan, telah mengakibatkan penurunan kualitas air dan dampak negatif pada ekosistem. Perubahan iklim juga berpotensi mengubah pola curah hujan dan aliran sungai, yang dapat mempengaruhi pasokan air di wilayah yang bergantung pada sungai ini.
 
-:::caution
+:::caution[PERINGATAN]
 Sungai Colorado adalah sebuah keajaiban alam yang tidak hanya menawarkan keindahan, tetapi juga memiliki nilai ekonomi dan ekologis yang sangat tinggi. Melindungi sungai ini dan lingkungan di sekitarnya adalah tanggung jawab bersama kita. Dengan meningkatkan kesadaran dan mengambil langkah-langkah untuk mengurangi dampak negatif terhadap sungai, kita dapat memastikan bahwa Sungai Colorado tetap menjadi sumber kehidupan dan inspirasi bagi generasi mendatang. Mari kita jaga keindahan dan keberlanjutan Sungai Colorado agar tetap terpelihara untuk masa depan.
 :::
 
-# 6. **Sungai Mara, Kenya dan Tanzania**
+# 6. Sungai Mara, Kenya dan Tanzania
    Sungai Mara adalah salah satu sungai paling terkenal di Afrika, mengalir melalui Kenya dan Tanzania. Dengan panjang sekitar 395 kilometer, sungai ini dikenal karena perannya yang sangat penting dalam ekosistem savana Afrika, serta sebagai lokasi utama bagi migrasi tahunan hewan liar.
 
 ## Geografi dan Aliran
@@ -121,7 +121,7 @@ Sungai Mara memiliki peran yang sangat penting dalam mendukung ekosistem savana 
 ## Ancaman yang Dihadapi
 Meskipun Sungai Mara kaya akan keanekaragaman hayati dan memiliki nilai ekologis yang tinggi, ia juga menghadapi berbagai ancaman. Pembangunan infrastruktur, deforestasi, dan perubahan iklim dapat mengganggu ekosistem sungai dan migrasi hewan. Pencemaran dari limbah pertanian dan pemukiman juga menjadi masalah yang mempengaruhi kualitas air dan kesehatan ekosistem.
 
-:::caution
+:::caution[PERINGATAN]
 Sungai Mara adalah salah satu harta karun alam Afrika yang menawarkan keindahan, keanekaragaman hayati, dan pengalaman unik bagi para pengunjung. Melindungi sungai ini dan lingkungan sekitarnya adalah tanggung jawab bersama kita. Dengan upaya pelestarian dan kesadaran akan pentingnya ekosistem, kita dapat memastikan bahwa Sungai Mara tetap menjadi jalur migrasi dan sumber kehidupan bagi hewan liar dan masyarakat lokal. Mari kita jaga keajaiban alam ini agar tetap terpelihara dan lestari untuk generasi mendatang.
 :::
 
