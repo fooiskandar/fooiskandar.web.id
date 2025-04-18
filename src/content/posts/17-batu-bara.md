@@ -9,7 +9,7 @@ draft: false
 # lang: id      # Set only if the post's language differs from the site's language in `config.ts`
 ---
 
-[Batu bara](https://id.m.wikipedia.org/wiki/Batu_bara) adalah salah satu sumber energi fosil yang paling banyak digunakan di dunia. Sebagai bahan bakar, batu bara telah memainkan peran penting dalam pengembangan industri dan ekonomi berbagai negara. Meskipun efisien dalam menghasilkan energi, penggunaan batu bara juga membawa dampak lingkungan yang signifikan, termasuk emisi karbon dan kerusakan ekosistem.
+[Batu bara](https://id.m.wikipedia.org/wiki/Batu_bara) adalah salah satu [sumber energi fosil](https://id.m.wikipedia.org/wiki/Bahan_bakar_fosil) yang paling banyak digunakan di dunia. Sebagai bahan bakar, batu bara telah memainkan peran penting dalam pengembangan industri dan ekonomi berbagai negara. Meskipun efisien dalam menghasilkan energi, penggunaan batu bara juga membawa dampak lingkungan yang signifikan, termasuk emisi karbon dan kerusakan ekosistem.
 
 ![Batu Bara src: solar indrustri](https://solarindustri.com/wp-content/uploads/2023/04/pengertian-batu-bara.jpg)
 
