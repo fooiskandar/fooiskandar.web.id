@@ -102,7 +102,7 @@ Dengan distribusi yang luas ini, pengguna di semua tingkat harga diberikan kiner
 * POCO F7 Pro
 * POCO F7 Ultra
 
-![Xiaomi HyperOS list device source: hyperosupdate.com](https://xiaomitime.com/wp-content/uploads/2025/03/HyperOS-2-updates-768x384.jpg)
+![Xiaomi HyperOS list device source: hyperosupdate.com](https://xiaomitime.com/wp-content/uploads/2025/03/HyperOS-2-updates-768x384.jpg "src xiaomitime")
 
 ## Apa Selanjutnya: HyperOS 2.1 dan 2.
 Dengan peluncuran HyperOS 2.0 yang sukses, Xiaomi kini siap meluncurkan versi berikutnya – HyperOS 2.1 dan HyperOS 2.2. Versi ini akan memperkenalkan pengoptimalan dan fitur lebih lanjut ke perangkat yang kompatibel di akhir tahun ini.
