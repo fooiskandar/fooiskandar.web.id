@@ -5,7 +5,7 @@ description: Android OS adalah sistem operasi yang dirancang khusus untuk perang
 image: ./cover-teknologi.png
 tags: [Android, Sejarah Android, Versi Android, Sistem Operasi Mobile, Teknologi, Inovasi, Fitur Android, Android 14, Android 15, Android 16]
 category: Teknologi
-draft: true
+draft: false
 # lang: id      # Set only if the post's language differs from the site's language in `config.ts`
 ---
 
@@ -17,7 +17,7 @@ Android Inc. didirikan pada tahun 2003 oleh Andy Rubin, Rich Miner, Nick Sears, 
 Berikut adalah informasi detail mengenai versi Android dari awal hingga sekarang, termasuk fitur utama dan perkembangan setiap versi:
 
 ## 1. **Android 1.0 (2008)**
-![Android 1.0](https://static.wikia.nocookie.net/logopedia/images/a/a5/Android_1.0_Apple_Pie.png)
+![Android 1.0](https://static.wikia.nocookie.net/logopedia/images/a/a5/Android_1.0_Apple_Pie.png){width=250}
 - **Peluncuran**: September 2008
 - **Fitur Utama**:
   - Akses ke Google Search, Gmail, dan Google Maps.
