@@ -73,7 +73,7 @@ Berikut adalah informasi detail mengenai versi Android dari awal hingga sekarang
   - Widget dan navigasi yang lebih baik.
 
 ## 8. **Android 4.0 (Ice Cream Sandwich) (2011)**
-![]()
+![Android 4.0](https://static.wikia.nocookie.net/logopedia/images/a/a0/Android_4.0_Ice_Cream_Sandwich.png? width=250)
 - **Peluncuran**: Oktober 2011
 - **Fitur Utama**:
   - Mengintegrasikan fitur dari ponsel dan tablet.
@@ -81,7 +81,7 @@ Berikut adalah informasi detail mengenai versi Android dari awal hingga sekarang
   - Fitur pengenalan wajah dan kemampuan screenshot.
 
 ## 9. **Android 4.1 (Jelly Bean) (2012)**
-![]()
+![Android 4.1](https://static.wikia.nocookie.net/logopedia/images/1/1d/Android_jelly_bean.png?width=250)
 - **Peluncuran**: Juli 2012
 - **Fitur Utama**:
   - Project Butter untuk meningkatkan responsivitas antarmuka.
@@ -89,7 +89,7 @@ Berikut adalah informasi detail mengenai versi Android dari awal hingga sekarang
   - Peningkatan notifikasi dan widget.
 
 ## 10. **Android 4.4 (KitKat) (2013)**
-![]()
+![Android 4.4](https://static.wikia.nocookie.net/logopedia/images/5/55/Android-kitkat.jpg?width=250)
 - **Peluncuran**: Oktober 2013
 - **Fitur Utama**:
   - Desain yang lebih ramping dan ringan.
