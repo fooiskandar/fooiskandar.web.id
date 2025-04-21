@@ -136,7 +136,7 @@ Berikut adalah informasi detail mengenai versi Android dari awal hingga sekarang
   - Fitur Adaptive Battery untuk menghemat daya.
   - Kontrol privasi yang lebih baik.
 
-## 16. **Android 10 (2019)**
+## 16. **[Android 10](https://www.android.com/intl/id_id/android-10/) (2019)**
 ![Android 10](https://static.wikia.nocookie.net/logopedia/images/f/f8/Android_Q_logo.svg?width=250)
 - **Peluncuran**: September 2019
 - **Fitur Utama**:
@@ -144,7 +144,7 @@ Berikut adalah informasi detail mengenai versi Android dari awal hingga sekarang
   - Peningkatan privasi dan keamanan.
   - Fitur pengelolaan lokasi yang lebih baik.
 
-## 17. **Android 11 (2020)**
+## 17. **[Android 11](https://www.android.com/intl/id_id/android-11/) (2020)**
 ![Android 11](https://static.wikia.nocookie.net/logopedia/images/b/b5/Android11Logo.svg?width=250)
 - **Peluncuran**: September 2020
 - **Fitur Utama**:
@@ -152,7 +152,7 @@ Berikut adalah informasi detail mengenai versi Android dari awal hingga sekarang
   - Kontrol media yang lebih baik.
   - Pengaturan privasi yang lebih ketat.
 
-## 18. **Android 12 (2021)**
+## 18. **[Android 12](https://www.android.com/intl/id_id/android-12/) (2021)**
 ![Android 12](https://static.wikia.nocookie.net/logopedia/images/5/56/Android12.svg?width=250)
 - **Peluncuran**: Oktober 2021
 - **Fitur Utama**:
@@ -160,7 +160,7 @@ Berikut adalah informasi detail mengenai versi Android dari awal hingga sekarang
   - Kontrol privasi yang lebih baik.
   - Fitur baru untuk pengelolaan izin aplikasi.
 
-## 19. **Android 13 (2022)**
+## 19. **[Android 13](https://www.android.com/intl/id_id/android-13/) (2022)**
 ![Android 13](https://static.wikia.nocookie.net/logopedia/images/2/22/Android_13_Developer_Preview_logo.svg?width=250)
 - **Peluncuran**: Agustus 2022
 - **Fitur Utama**:
@@ -168,7 +168,7 @@ Berikut adalah informasi detail mengenai versi Android dari awal hingga sekarang
   - Peningkatan privasi dan keamanan.
   - Dukungan untuk lebih banyak bahasa.
 
-## 20. **Android 14 (2023)**
+## 20. **[Android 14](https://www.android.com/intl/id_id/android-14/) (2023)**
 ![Android 14](https://static.wikia.nocookie.net/logopedia/images/1/1f/Android_14_icon_Alt1.svg?width=250)
 - **Peluncuran**: Belum resmi namun diperkirakan pada akhir 2023.
 - **Fitur Utama**: 
