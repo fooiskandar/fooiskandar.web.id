@@ -73,7 +73,7 @@ Berikut adalah informasi detail mengenai versi Android dari awal hingga sekarang
   - Widget dan navigasi yang lebih baik.
 
 ## 8. **Android 4.0 (Ice Cream Sandwich) (2011)**
-![Android 4.0](https://static.wikia.nocookie.net/logopedia/images/a/a0/Android_4.0_Ice_Cream_Sandwich.png? width=250)
+![Android 4.0](https://static.wikia.nocookie.net/logopedia/images/a/a0/Android_4.0_Ice_Cream_Sandwich.png?width=250)
 - **Peluncuran**: Oktober 2011
 - **Fitur Utama**:
   - Mengintegrasikan fitur dari ponsel dan tablet.
