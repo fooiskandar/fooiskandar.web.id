@@ -81,7 +81,7 @@ Berikut adalah informasi detail mengenai versi Android dari awal hingga sekarang
   - Fitur pengenalan wajah dan kemampuan screenshot.
 
 ## 9. **Android 4.1 (Jelly Bean) (2012)**
-![Android 4.1](https://static.wikia.nocookie.net/logopedia/images/1/1d/Android_jelly_bean.png?width=250)
+![Android 4.1](https://static.wikia.nocookie.net/logopedia/images/a/a6/Android_Je.svg?width=250)
 - **Peluncuran**: Juli 2012
 - **Fitur Utama**:
   - Project Butter untuk meningkatkan responsivitas antarmuka.
