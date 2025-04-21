@@ -17,7 +17,7 @@ Android Inc. didirikan pada tahun 2003 oleh Andy Rubin, Rich Miner, Nick Sears, 
 Berikut adalah informasi detail mengenai versi Android dari awal hingga sekarang, termasuk fitur utama dan perkembangan setiap versi:
 
 ## 1. **Android 1.0 (2008)**
-![Android 1.0](https://static.wikia.nocookie.net/logopedia/images/a/a5/Android_1.0_Apple_Pie.png){width=250}
+<img src="https://static.wikia.nocookie.net/logopedia/images/a/a5/Android_1.0_Apple_Pie.png" alt="Android 1.0" width="250">
 - **Peluncuran**: September 2008
 - **Fitur Utama**:
   - Akses ke Google Search, Gmail, dan Google Maps.
@@ -25,7 +25,7 @@ Berikut adalah informasi detail mengenai versi Android dari awal hingga sekarang
   - Antarmuka sederhana dengan tampilan layar utama.
 
 ## 2. **Android 1.5 (Cupcake) (2009)**
-![Android 1.5](https://static.wikia.nocookie.net/logopedia/images/6/67/Android-cupcake-logo.svg)
+<img src="https://static.wikia.nocookie.net/logopedia/images/6/67/Android-cupcake-logo.svg" alt="Android 1.5" width="250">
 - **Peluncuran**: April 2009
 - **Fitur Utama**:
   - Keyboard virtual layar sentuh.
