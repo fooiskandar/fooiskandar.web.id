@@ -129,7 +129,7 @@ Berikut adalah informasi detail mengenai versi Android dari awal hingga sekarang
   - Peningkatan keamanan dengan fitur baru.
 
 ## 15. **Android 9.0 (Pie) (2018)**
-![]()
+![Android 9.0](https://static.wikia.nocookie.net/logopedia/images/1/13/Android_P_logo.svg?width=250)
 - **Peluncuran**: Agustus 2018
 - **Fitur Utama**:
   - Navigasi berbasis gerakan.
@@ -137,7 +137,7 @@ Berikut adalah informasi detail mengenai versi Android dari awal hingga sekarang
   - Kontrol privasi yang lebih baik.
 
 ## 16. **Android 10 (2019)**
-![]()
+![Android 10](https://static.wikia.nocookie.net/logopedia/images/f/f8/Android_Q_logo.svg?width=250)
 - **Peluncuran**: September 2019
 - **Fitur Utama**:
   - Mode gelap (dark mode) untuk antarmuka pengguna.
@@ -145,7 +145,7 @@ Berikut adalah informasi detail mengenai versi Android dari awal hingga sekarang
   - Fitur pengelolaan lokasi yang lebih baik.
 
 ## 17. **Android 11 (2020)**
-![]()
+![Android 11](https://static.wikia.nocookie.net/logopedia/images/b/b5/Android11Logo.svg?width=250)
 - **Peluncuran**: September 2020
 - **Fitur Utama**:
   - Fitur percakapan yang ditingkatkan dengan balon obrolan.
@@ -153,7 +153,7 @@ Berikut adalah informasi detail mengenai versi Android dari awal hingga sekarang
   - Pengaturan privasi yang lebih ketat.
 
 ## 18. **Android 12 (2021)**
-![]()
+![Android 12](https://static.wikia.nocookie.net/logopedia/images/5/56/Android12.svg?width=250)
 - **Peluncuran**: Oktober 2021
 - **Fitur Utama**:
   - Desain Material You yang memungkinkan personalisasi warna.
@@ -161,7 +161,7 @@ Berikut adalah informasi detail mengenai versi Android dari awal hingga sekarang
   - Fitur baru untuk pengelolaan izin aplikasi.
 
 ## 19. **Android 13 (2022)**
-![]()
+![Android 13](https://static.wikia.nocookie.net/logopedia/images/2/22/Android_13_Developer_Preview_logo.svg?width=250)
 - **Peluncuran**: Agustus 2022
 - **Fitur Utama**:
   - Lebih banyak opsi kustomisasi untuk tema dan font.
@@ -169,7 +169,7 @@ Berikut adalah informasi detail mengenai versi Android dari awal hingga sekarang
   - Dukungan untuk lebih banyak bahasa.
 
 ## 20. **Android 14 (2023)**
-![]()
+![Android 14](https://static.wikia.nocookie.net/logopedia/images/1/1f/Android_14_icon_Alt1.svg?width=250)
 - **Peluncuran**: Belum resmi namun diperkirakan pada akhir 2023.
 - **Fitur Utama**: 
   - Peningkatan dalam kustomisasi antarmuka pengguna.
@@ -179,13 +179,13 @@ Berikut adalah informasi detail mengenai versi Android dari awal hingga sekarang
 Hingga saat ini, informasi mengenai Android 15 dan 16 belum diumumkan secara resmi oleh Google. Namun, berikut adalah perkiraan berdasarkan pola pembaruan sebelumnya dan harapan yang ada dalam komunitas pengguna Android:
 
 ## Android 15 (Perkiraan)
-![]()
-- **Fitur Baru**: Meskipun belum ada detail resmi, Android 15 mungkin akan melanjutkan tren peningkatan kustomisasi, dengan fitur yang memungkinkan pengguna untuk lebih banyak menyesuaikan antarmuka pengguna mereka. 
+![Android 15](https://static.wikia.nocookie.net/logopedia/images/9/9a/Android_15.svg?width=250)
+- **Fitur Baru**: Meskipun belum ada detail resmi, [Android 15](https://www.android.com/intl/id_id/new-features-on-android/?modal-id=android-15-features) mungkin akan melanjutkan tren peningkatan kustomisasi, dengan fitur yang memungkinkan pengguna untuk lebih banyak menyesuaikan antarmuka pengguna mereka. 
 - **Keamanan dan Privasi**: Peningkatan dalam kontrol privasi dan keamanan diharapkan akan menjadi fokus utama, dengan fitur baru untuk melindungi data pengguna.
 - **Kompatibilitas Perangkat**: Android 15 kemungkinan akan memberikan dukungan yang lebih baik untuk perangkat dengan layar lipat dan perangkat berbasis AI.
 
 ## Android 16 (Perkiraan)
-![]()
+![Android 16](https://static.wikia.nocookie.net/logopedia/images/2/27/Android_16_Icon.svg?width=250)
 - **Inovasi Teknologi**: Android 16 diharapkan akan membawa inovasi dalam pemanfaatan kecerdasan buatan (AI) untuk meningkatkan pengalaman pengguna, seperti pengenalan suara yang lebih baik dan pengelolaan aplikasi yang lebih cerdas.
 - **Peningkatan Performa**: Fokus pada pengoptimalan performa dan efisiensi daya, serta peningkatan dalam cara aplikasi berfungsi pada perangkat dengan spesifikasi rendah.
 - **Kustomisasi yang Lebih Dalam**: Mungkin akan ada lebih banyak opsi kustomisasi untuk pengguna, termasuk tema yang lebih unik dan fleksibilitas dalam pengaturan antarmuka.
