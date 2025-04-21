@@ -97,7 +97,7 @@ Berikut adalah informasi detail mengenai versi Android dari awal hingga sekarang
   - Fitur "OK Google" untuk pencarian suara.
 
 ## 11. **Android 5.0 (Lollipop) (2014)**
-![]()
+![Android 5.0](https://static.wikia.nocookie.net/logopedia/images/e/ea/Android_5.0.png?width=250)
 - **Peluncuran**: November 2014
 - **Fitur Utama**:
   - Material Design untuk antarmuka pengguna yang lebih modern.
@@ -105,7 +105,7 @@ Berikut adalah informasi detail mengenai versi Android dari awal hingga sekarang
   - Dukungan untuk perangkat yang lebih banyak.
 
 ## 12. **Android 6.0 (Marshmallow) (2015)**
-![]()
+![Android 6.0](https://static.wikia.nocookie.net/logopedia/images/2/27/Android_Marshmallow_logo.svg?width=250)
 - **Peluncuran**: Oktober 2015
 - **Fitur Utama**:
   - Kontrol izin aplikasi yang lebih baik.
@@ -113,7 +113,7 @@ Berikut adalah informasi detail mengenai versi Android dari awal hingga sekarang
   - Dukungan untuk sensor fingerprint.
 
 ## 13. **Android 7.0 (Nougat) (2016)**
-![]()
+![Android 7.0](https://static.wikia.nocookie.net/logopedia/images/c/ca/Android_7.0_Nougat_logo.svg?width=250)
 - **Peluncuran**: Agustus 2016
 - **Fitur Utama**:
   - Fitur multitasking split-screen.
@@ -121,7 +121,7 @@ Berikut adalah informasi detail mengenai versi Android dari awal hingga sekarang
   - Peningkatan performa dan dukungan VR (Virtual Reality).
 
 ## 14. **Android 8.0 (Oreo) (2017)**
-![]()
+![Android 8.0](https://static.wikia.nocookie.net/logopedia/images/e/e7/Android_Oreo_Icon.png?width=250)
 - **Peluncuran**: Agustus 2017
 - **Fitur Utama**:
   - Fitur Picture-in-Picture (PiP).
