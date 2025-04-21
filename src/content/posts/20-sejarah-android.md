@@ -57,7 +57,7 @@ Berikut adalah informasi detail mengenai versi Android dari awal hingga sekarang
   - Fitur tethering (berbagi koneksi internet) dan peningkatan pengaturan aplikasi.
 
 ## 6. **Android 2.3 (Gingerbread) (2010)**
-![]()
+![Android 2.3](https://static.wikia.nocookie.net/logopedia/images/e/ee/Android_2.3_Gingerbread.png?width=250)
 - **Peluncuran**: Desember 2010
 - **Fitur Utama**:
   - Antarmuka pengguna yang lebih sederhana dan responsif.
@@ -65,7 +65,7 @@ Berikut adalah informasi detail mengenai versi Android dari awal hingga sekarang
   - Fitur NFC (Near Field Communication).
 
 ## 7. **Android 3.0 (Honeycomb) (2011)**
-![]()
+![Android 3.0](https://static.wikia.nocookie.net/logopedia/images/2/24/Android_honeycomb.png?width=250)
 - **Peluncuran**: Februari 2011
 - **Fitur Utama**:
   - Dirancang khusus untuk tablet.
