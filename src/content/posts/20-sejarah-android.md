@@ -25,7 +25,7 @@ Berikut adalah informasi detail mengenai versi Android dari awal hingga sekarang
   - Antarmuka sederhana dengan tampilan layar utama.
 
 ## 2. **Android 1.5 (Cupcake) (2009)**
-![Android 1.5](https://static.wikia.nocookie.net/logopedia/images/4/43/Android-donut-logo.svg/)
+![Android 1.5](https://static.wikia.nocookie.net/logopedia/images/6/67/Android-cupcake-logo.svg)
 - **Peluncuran**: April 2009
 - **Fitur Utama**:
   - Keyboard virtual layar sentuh.
@@ -33,7 +33,7 @@ Berikut adalah informasi detail mengenai versi Android dari awal hingga sekarang
   - Peningkatan dukungan untuk gambar dan video.
 
 ## 3. **Android 1.6 (Donut) (2009)**
-![]()
+![Android 1.6](https://static.wikia.nocookie.net/logopedia/images/4/43/Android-donut-logo.svg/)
 - **Peluncuran**: September 2009
 - **Fitur Utama**:
   - Dukungan untuk berbagai ukuran layar dan resolusi.
@@ -41,7 +41,7 @@ Berikut adalah informasi detail mengenai versi Android dari awal hingga sekarang
   - Peningkatan kecepatan sistem dan kemampuan pencarian aplikasi di Android Market.
 
 ## 4. **Android 2.0 (Eclair) (2009)**
-![]()
+![Android 2.0](https://static.wikia.nocookie.net/logopedia/images/c/c9/Android-eclair-logo.svg)
 - **Peluncuran**: Oktober 2009
 - **Fitur Utama**:
   - Multitasking dan kemampuan untuk mengubah tampilan antarmuka.
@@ -49,7 +49,7 @@ Berikut adalah informasi detail mengenai versi Android dari awal hingga sekarang
   - Dukungan untuk Bluetooth 2.1 dan fitur kamera yang lebih baik.
 
 ## 5. **Android 2.2 (Froyo) (2010)**
-![]()
+![Android 2.2](https://static.wikia.nocookie.net/logopedia/images/c/c4/Android-froyo-logo.svg/)
 - **Peluncuran**: Mei 2010
 - **Fitur Utama**:
   - Peningkatan performa dan kecepatan.
