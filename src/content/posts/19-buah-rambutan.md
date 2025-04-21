@@ -9,7 +9,9 @@ draft: false
 # lang: id      # Set only if the post's language differs from the site's language in `config.ts`
 ---
 
-Buah rambutan, dengan kulitnya yang berbulu dan warna merah cerah, adalah salah satu buah tropis yang sangat populer di Asia Tenggara, terutama di Indonesia. Nama "rambutan" berasal dari kata "rambut" dalam bahasa Melayu, yang merujuk pada penampilan kulit buah ini yang berbulu.
+Buah [rambutan](https://id.m.wikipedia.org/wiki/Rambutan), dengan kulitnya yang berbulu dan warna merah cerah, adalah salah satu buah tropis yang sangat populer di Asia Tenggara, terutama di Indonesia. Nama "rambutan" berasal dari kata "rambut" dalam bahasa Melayu, yang merujuk pada penampilan kulit buah ini yang berbulu.
+
+![Buah Rambutan source: id.wikipedia](https://upload.wikimedia.org/wikipedia/commons/1/1b/Ripe_rambutan_fruit_%28Buche%29.jpg "Source: id.wikipedia")
 
 ## Ciri-ciri Buah Rambutan
 
