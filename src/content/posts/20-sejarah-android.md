@@ -2,8 +2,7 @@
 title: Evolusi Android OS 'Sejarah dan Fitur dari Versi Pertama hingga Saat Ini'
 published: 2025-04-21
 description: Android OS adalah sistem operasi yang dirancang khusus untuk perangkat mobile, seperti smartphone dan tablet. Dikenal karena fleksibilitas dan kemampuannya yang luas, Android telah menjadi salah satu sistem operasi paling populer di dunia. 
-# image: ./cover-teknologi.png
-image: ../public/cover.png
+image: ./cover-teknologi.png
 tags: [Android, Sejarah Android, Versi Android, Sistem Operasi Mobile, Teknologi, Inovasi, Fitur Android, Android 14, Android 15, Android 16]
 category: Teknologi
 draft: false
