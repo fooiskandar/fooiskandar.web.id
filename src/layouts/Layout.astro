@@ -62,7 +62,7 @@ let webTitle: string
 if (title) {
   webTitle = `${title}`
 } else {
-  webTitle = `${siteConfig.title} - ${siteConfig.subtitle}`
+  webTitle = `${siteConfig.subtitle}`
 }
 
 const favicons: Favicon[] =
@@ -89,7 +89,7 @@ const bannerOffset =
 >
 	<head>
 
-		<title>{webTitle}</title>
+		<title>{pageTitle}</title>
 
 		<meta charset="UTF-8" />
 		<meta name="description" content={description || webTitle}>
