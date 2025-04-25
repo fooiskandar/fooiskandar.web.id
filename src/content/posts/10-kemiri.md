@@ -2,7 +2,7 @@
 title: Kemiri Manfaat dan Keunikan Tanaman yang Multifungsi
 published: 2025-04-06
 description: Kemiri, juga dikenal dengan nama latin Aleurites moluccanus, adalah tanaman yang memiliki sejarah panjang dalam penggunaannya oleh berbagai budaya di seluruh dunia.
-image: ./cover-tanaman.png
+image: /images/cover-tanaman.png
 tags: [Kemiri, Tanaman, Minyak Kemiri, Manfaat Tanaman]
 category: Tanaman
 draft: false
