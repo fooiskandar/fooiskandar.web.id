@@ -2,7 +2,7 @@
 title: Kacang Mede atau Kacang Mete Kekayaan Rasa dan Manfaat Kesehatan
 published: 2025-04-01
 description: Kacang mede, atau juga dikenal sebagai kacang mete, merupakan salah satu jenis kacang-kacangan yang memiliki rasa gurih, renyah, dan juga manfaat kesehatan yang luar biasa.
-image: ./cover-kuliner.png
+image: /images/cover-kuliner.png
 tags: [Kacang Mede, Makanan Sehat, Kecantikan, Sumber Nutrisi, Manfaat Kesehatan, resep, Olahan kacang mede, Kacang Mete]
 category: Kuliner
 draft: false
