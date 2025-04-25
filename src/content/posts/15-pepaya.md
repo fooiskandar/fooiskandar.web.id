@@ -2,7 +2,7 @@
 title: Pepaya Buah Tropis yang Kaya Manfaat dan Varietas
 published: 2025-04-14
 description: Pepaya (Carica papaya) adalah buah tropis yang dikenal luas di seluruh dunia karena rasanya yang manis dan kandungan nutrisinya yang tinggi.
-image: ./cover-tanaman.png
+image: /images/cover-tanaman.png
 tags: [Pepaya, BuahTropis, Kesehatan, Nutrisi, Jenis Pepaya, Manfaat Pepaya, Pepaya California, Pepaya Hawaii, Pepaya RedLady, Pepaya Green, Pepaya Betik]
 category: Tanaman
 draft: false
