@@ -2,7 +2,7 @@
 title: Panduan Lengkap Memilih Popok Bayi yang Tepat
 published: 2025-04-25
 description: Memilih popok bayi yang tepat adalah salah satu keputusan penting bagi para orang tua. Popok tidak hanya berfungsi untuk menjaga kebersihan dan kenyamanan bayi, tetapi juga berperan dalam kesehatan kulitnya.
-image: ./cover-kesehatan.png
+image: /images/cover-kesehatan.png
 tags: [Popok Bayi, Perawatan Bayi, Kesehatan Anak, Ibu Dan Anak, Tips Parenting, Kesehatan]
 category: Kesehatan
 draft: false
