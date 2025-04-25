@@ -2,7 +2,7 @@
 title: Xiaomi Telah Berhasil Menyelesaikan HyperOS 2 Untuk 116 device
 published: 2025-04-19
 description: Xiaomi telah mencapai tonggak sejarah yang luar biasa dalam perjalanan pembaruan perangkat lunaknya, dengan berhasil menerapkan pembaruan HyperOS 2 ke 116 perangkat yang mengesankan di 8 wilayah berbeda hanya dalam waktu 6 bulan. 
-image: ./cover-teknologi.png
+image: /images/cover-teknologi.png
 tags: [Teknologi, Xiaomi, HyperOS, HyperOS 2]
 category: Teknologi
 draft: false
