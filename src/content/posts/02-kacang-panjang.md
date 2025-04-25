@@ -2,7 +2,7 @@
 title: Manfaat Kacang Panjang yang Luar Biasa untuk Kesehatan
 published: 2025-04-01
 description: Kacang panjang, juga dikenal sebagai kacang buncis atau kacang polong, adalah salah satu jenis sayuran yang kaya akan nutrisi dan memiliki banyak manfaat bagi kesehatan.
-image: ./cover-sayur.png
+image: /images/cover-sayur.png
 tags: [Sayuran, Kacang Panjang, Kesehatan, Makanan Sehat]
 category: Sayuran
 draft: false
