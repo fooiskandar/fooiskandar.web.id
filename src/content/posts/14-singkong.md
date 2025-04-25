@@ -2,7 +2,7 @@
 title: Singkong Superfood yang Kaya Nutrisi dan Serbaguna
 published: 2025-04-13
 description: Singkong, atau dalam bahasa ilmiahnya Manihot esculenta, adalah tanaman umbi-umbian yang banyak ditemukan di daerah tropis, termasuk Indonesia.
-image: ./cover-kuliner.png
+image: /images/cover-kuliner.png
 tags: [Singkong, Manfaat Singkong, Nutrisi, MakananSehat, Superfood, Kuliner]
 category: Kuliner
 draft: false
