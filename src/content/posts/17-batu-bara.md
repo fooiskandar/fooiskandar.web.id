@@ -2,7 +2,7 @@
 title: Batu Bara Sumber Energi yang Kontroversial dan Penting untuk Masa Depan
 published: 2025-04-18
 description: Batu bara adalah salah satu sumber energi fosil yang paling banyak digunakan di dunia. Sebagai bahan bakar, batu bara telah memainkan peran penting dalam pengembangan industri dan ekonomi berbagai negara.
-image: ./cover-alam.png
+image: /images/cover-alam.png
 tags: [Batu Bara, Energi Fosil, Lingkungan, Revolusi Industri, Sumber Energi, Perubahan Iklim, Teknologi Bersih, Keberlanjutan]
 category: Alam
 draft: false
