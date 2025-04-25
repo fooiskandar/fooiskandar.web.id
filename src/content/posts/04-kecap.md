@@ -2,7 +2,7 @@
 title: Mengenal Lebih Dekat Kecap Sejarah, Jenis, dan Manfaatnya yang Luar Biasa
 published: 2025-03-30
 description: Kecap merupakan salah satu bahan bumbu yang tak bisa lepas dari hidangan khas Indonesia.Kecap merupakan salah satu bahan bumbu yang tak bisa lepas dari hidangan khas Indonesia.
-image: ./cover-kuliner.png
+image: /images/cover-kuliner.png
 tags: [Kecap, Bumbu, Tradisional, Manfaat, Kuliner, Kesehatan]
 category: Kuliner
 draft: false
