@@ -2,7 +2,7 @@
 title: Jelajahi Keanekaragaman Makanan Cepat Saji Indonesia
 published: 2025-04-01
 description: Indonesia terkenal akan kekayaan budaya dan kulinernya yang beragam. Salah satu aspek menarik dari kekayaan kuliner Indonesia adalah makanan cepat sajinya yang menggugah selera dan unik.
-image: ./cover-kuliner.png
+image: /images/cover-kuliner.png
 tags: [Kuliner, Makanan Cepat Saji, Kelezatan Lokal]
 category: Kuliner
 draft: false
