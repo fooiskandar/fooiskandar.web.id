@@ -2,7 +2,7 @@
 title: Menggali Manfaat dan Kandungan Nutrisi Kacang Hazelnut yang Luar Biasa
 published: 2025-04-03
 description: Kacang hazelnut, atau juga dikenal sebagai kacang filbert, adalah biji dari pohon hazelnut (Corylus avellana). Kacang ini memiliki kulit yang keras dan cangkang yang melindungi isinya.
-image: ./cover-kuliner.png
+image: /images/cover-kuliner.png
 tags: [Kacang Hazelnut, Kesehatan, Nutrisi, Gizi, Resep]
 category: Kuliner
 draft: false
