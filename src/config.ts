@@ -1,5 +1,5 @@
 import type {
-  CommentConfig,
+  // CommentConfig,
   LicenseConfig,
   NavBarConfig,
   ProfileConfig,
@@ -94,7 +94,7 @@ export const licenseConfig: LicenseConfig = {
   url: 'https://creativecommons.org/licenses/by-nc-sa/4.0/',
 }
 
-export const commentConfig: CommentConfig = {
+/* export const commentConfig: CommentConfig = {
   disqus: {
     shortname: 'fooiskandar',
   },
@@ -116,3 +116,4 @@ export const commentConfig: CommentConfig = {
   //   envId: 'https://twikoo-tau-flame.vercel.app',
   // },
     }
+*/
