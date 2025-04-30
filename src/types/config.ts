@@ -1,4 +1,4 @@
-import type Giscus from 'giscus'
+// import type Giscus from 'giscus'
 import type { AUTO_MODE, DARK_MODE, LIGHT_MODE } from '@constants/constants'
 
 export type SiteConfig = {
@@ -90,6 +90,7 @@ export type BlogPostData = {
 }
 
 /*comment*/
+/*
 export type CommentConfig = {
   twikoo?: TwikooConfig
   disqus?: DisqusConfig
@@ -120,4 +121,4 @@ type GiscusConfig = {
   theme: Giscus.Theme
   lang: Giscus.AvailableLanguage
   loading: Giscus.Loading
-}
+}*/
