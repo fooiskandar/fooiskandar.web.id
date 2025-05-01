@@ -138,6 +138,15 @@ const jsonLd = {
             </div>}
         </a>
 
+<style is:global>
+#post-container :nth-child(1) { animation-delay: calc(var(--content-delay) + 0ms) }
+#post-container :nth-child(2) { animation-delay: calc(var(--content-delay) + 50ms) }
+#post-container :nth-child(3) { animation-delay: calc(var(--content-delay) + 100ms) }
+#post-container :nth-child(4) { animation-delay: calc(var(--content-delay) + 175ms) }
+#post-container :nth-child(5) { animation-delay: calc(var(--content-delay) + 250ms) }
+#post-container :nth-child(6) { animation-delay: calc(var(--content-delay) + 325ms) }
+</style>
+
         <a href={entry.data.prevSlug ? getPostUrlBySlug(entry.data.prevSlug) : "#"}
            class:list={["w-full font-bold overflow-hidden active:scale-95", {"pointer-events-none": !entry.data.prevSlug}]}>
             {entry.data.prevSlug && <div class="btn-card rounded-2xl w-full h-[3.75rem] max-w-full px-4 flex items-center !justify-end gap-4">
