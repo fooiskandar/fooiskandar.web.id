@@ -96,8 +96,8 @@ export const licenseConfig: LicenseConfig = {
 
 export const giscusConfig: GiscusConfig = {
     enable: true,
-    repo: 'saicaca/f-giscus',
-    repoId: 'R_kgDOLUcjpw',
+    repo: 'fooiskandar/fooiskandar.web.id',
+    repoId: 'R_kgDOORo20Q',
     category: 'Announcements',
-    categoryId: 'DIC_kwDOLUcjp84CdVSH',
+    categoryId: 'DIC_kwDOORo20c4Cpq16',
 }
