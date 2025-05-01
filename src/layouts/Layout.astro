@@ -577,3 +577,13 @@ if (window.swup) {
 	document.addEventListener("swup:enable", setup)
 }
 </script>
+
+<style is:global lang="stylus">
+#banner-wrapper
+	top: 0
+	opacity: 1
+.banner-closed
+	#banner-wrapper
+		top: -120px
+		opacity: 0
+</style>
