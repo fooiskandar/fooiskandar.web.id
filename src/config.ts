@@ -1,5 +1,5 @@
 import type {
-  // CommentConfig,
+  GiscusConfig,
   LicenseConfig,
   NavBarConfig,
   ProfileConfig,
@@ -94,26 +94,10 @@ export const licenseConfig: LicenseConfig = {
   url: 'https://creativecommons.org/licenses/by-nc-sa/4.0/',
 }
 
-/* export const commentConfig: CommentConfig = {
-  disqus: {
-    shortname: 'fooiskandar',
-  },
-  // giscus: {
-  //   repo: 'moeyua/fuwari',
-  //   repoId: 'R_kgDOKy9HOQ',
-  //   category: 'General',
-  //   categoryId: 'DIC_kwDOKy9HOc4CegmW',
-  //   mapping: 'title',
-  //   strict: '0',
-  //   reactionsEnabled: '1',
-  //   emitMetadata: '1',
-  //   inputPosition: 'top',
-  //   theme: 'light',
-  //   lang: 'zh-CN',
-  //   loading: 'lazy',
-  // },
-  // twikoo: {
-  //   envId: 'https://twikoo-tau-flame.vercel.app',
-  // },
-    }
-*/
+export const giscusConfig: GiscusConfig = {
+    enable: true,
+    repo: 'saicaca/f-giscus',
+    repoId: 'R_kgDOLUcjpw',
+    category: 'Announcements',
+    categoryId: 'DIC_kwDOLUcjp84CdVSH',
+}
