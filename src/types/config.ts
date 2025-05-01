@@ -89,36 +89,10 @@ export type BlogPostData = {
   nextSlug?: string
 }
 
-/*comment*/
-/*
-export type CommentConfig = {
-  twikoo?: TwikooConfig
-  disqus?: DisqusConfig
-  giscus?: GiscusConfig
+export type GiscusConfig = {
+    enable: boolean
+    repo: string
+    repoId: string
+    category: string
+    categoryId: string
 }
-
-type TwikooConfig = {
-  envId: string
-  region?: string
-  lang?: string
-}
-
-type DisqusConfig = {
-  shortname: string
-}
-
-type GiscusConfig = {
-  repo: Giscus.Repo
-  repoId?: string
-  category?: string
-  categoryId?: string
-  mapping?: Giscus.Mapping
-  term?: string
-  strict: Giscus.BooleanString
-  reactionsEnabled: Giscus.BooleanString
-  emitMetadata: Giscus.BooleanString
-  inputPosition: Giscus.InputPosition
-  theme: Giscus.Theme
-  lang: Giscus.AvailableLanguage
-  loading: Giscus.Loading
-}*/
