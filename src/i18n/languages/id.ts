@@ -7,6 +7,8 @@ export const id: Translation = {
   [Key.archive]: 'Arsip',
   [Key.search]: 'Pencarian',
   [Key.contact]: 'Kontak',
+  [Key.disclaimer]: 'Disclaimer',
+  [Key.privacy]: 'Privacy',
 
   [Key.tags]: 'Tag',
   [Key.categories]: 'Kategori',
