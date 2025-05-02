@@ -2,7 +2,7 @@
 title: Buah Kiwi Manfaat Kesehatan dan Cara Menikmatinya
 published: 2025-04-01
 description: Buah kiwi merupakan salah satu buah yang kaya akan nutrisi dan memiliki banyak manfaat bagi kesehatan. Berasal dari Tiongkok, buah kiwi kini telah menjadi populer di seluruh dunia karena rasanya yang segar dan manfaat kesehatannya yang luar biasa.
-image: /images/cover-buah.png
+image: https://upld.zone.id/uploads/agiru5iq/kategori-buah.webp
 tags: [Buah kiwi, Kesehatan, Nutrisi, Buah segar, Diet sehat]
 category: Buah-buahan
 draft: false
