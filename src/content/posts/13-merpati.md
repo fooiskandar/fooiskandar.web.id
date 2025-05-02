@@ -2,7 +2,7 @@
 title: Merpati Simbol Perdamaian dan Keindahan Alam
 published: 2025-04-12
 description: Burung merpati, yang dikenal dengan nama ilmiah Columba livia, adalah salah satu spesies burung yang paling terkenal di dunia.
-image: /images/cover-hewan.png
+image: https://upld.zone.id/uploads/agiru5iq/kategori-hewan.webp
 tags: [Hewan, Babi Hutan, ekologi, konservasi]
 category: Hewan
 draft: false
