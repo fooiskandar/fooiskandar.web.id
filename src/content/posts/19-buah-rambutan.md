@@ -2,7 +2,7 @@
 title: Keunikan dan Manfaat Buah Rambutan 'Si Merah yang Menyegarkan'
 published: 2025-04-21
 description: Buah rambutan, dengan kulitnya yang berbulu dan warna merah cerah, adalah salah satu buah tropis yang sangat populer di Asia Tenggara, terutama di Indonesia..
-image: /images/cover-buah.png
+image: https://upld.zone.id/uploads/agiru5iq/kategori-buah.webp
 tags: [Buah Rambutan, Manfaat Kesehatan, Buah Tropis, Nutrisi, Makanan Sehat, Camilan Segar, Rambutan]
 category: Buah
 draft: false
