@@ -2,7 +2,7 @@
 title: Keajaiban Dunia Kecil Pesona dan Keunikan Cicak
 published: 2025-04-03
 description: Cicak, atau dalam terminologi ilmiahnya disebut dengan nama famili Gekkonidae, adalah salah satu reptil kecil yang memiliki kemampuan adaptasi luar biasa. Cicak ditemukan di berbagai belahan dunia, mulai dari kawasan tropis hingga subtropis.
-image: /images/cover-hewan.png
+image: https://upld.zone.id/uploads/agiru5iq/kategori-hewan.webp
 tags: [Cicak, Reptil, Keajaiban, Alam, Satwa, Satwa Liar, Hewan]
 category: Hewan
 draft: false
