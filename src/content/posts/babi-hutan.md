@@ -2,7 +2,7 @@
 title: Mengenal Lebih Jauh Babi Hutan
 published: 2025-03-25
 description: Babi Hutan, juga dikenal sebagai babi liar atau babi hutan Asia, merupakan salah satu spesies hewan yang memiliki peran ekologis yang signifikan.
-image: ./cover-hewan.png
+image: https://upld.zone.id/uploads/agiru5iq/kategori-hewan.webp
 tags: [Hewan, Babi Hutan, ekologi, konservasi]
 category: Hewan
 draft: false
