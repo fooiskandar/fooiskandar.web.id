@@ -2,7 +2,7 @@
 title: Sungai-Sungai Berbahaya di Seluruh Dunia Ancaman yang Mengintai
 published: 2025-04-16
 description: Sungai adalah sumber kehidupan bagi banyak ekosistem dan masyarakat di seluruh dunia. Namun, tidak semua sungai aman untuk dijelajahi.
-image: /images/cover-alam.png
+image: https://upld.zone.id/uploads/agiru5iq/kategori-alam.webp
 tags: [Sungai Berbahaya, Lingkungan, Petualangan, Keselamatan, Sungai Dunia]
 category: Alam
 draft: false
