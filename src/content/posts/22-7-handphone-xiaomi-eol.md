@@ -2,7 +2,7 @@
 title: 7 Handphone Xiaomi yang Masuk Daftar EOL
 published: 2025-04-26
 description: Xiaomi secara resmi mengumumkan bahwa tujuh perangkat utama akan mencapai end-of-life (EOL) pada bulan April 2025, yang menunjukkan berakhirnya dukungan perangkat lunak untuk ponsel unggulan dan kelas menengah yang sebelumnya telah melayani pengguna setia dengan setia setelah pertama kali diluncurkan.
-image: /images/cover-teknologi.png
+image: https://upld.zone.id/uploads/agiru5iq/kategori-teknologi.webp
 tags: [Handphone, Xiaomi, EOL, Redmi]
 category: Teknologi
 draft: false
