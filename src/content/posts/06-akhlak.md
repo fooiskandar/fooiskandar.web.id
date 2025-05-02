@@ -2,7 +2,7 @@
 title: Sebuah Kata 'AKHLAK'
 published: 2025-04-02
 description: Kata kiasan bukan puisi bukan quote.
-image: /images/cover-personal.png
+image: https://upld.zone.id/uploads/agiru5iq/kategori-personal.webp
 tags: [Personal, Akhlak, Kata-kata]
 category: Personal
 draft: false
