@@ -2,7 +2,7 @@
 title: Batagor dan Siomay Lezatnya Hidangan Khas Indonesia
 published: 2025-04-04
 description: Batagor dan siomay merupakan dua hidangan khas Indonesia yang sangat populer baik di dalam negeri maupun di luar negeri. Kedua hidangan ini memiliki cita rasa yang khas dan merupakan favorit bagi banyak orang.
-image: /images/cover-kuliner.png
+image: https://upld.zone.id/uploads/agiru5iq/kategori-kuliner.webp
 tags: [makanan Indonesia, kuliner, batagor, siomay, resep makanan]
 category: Kuliner
 draft: false
